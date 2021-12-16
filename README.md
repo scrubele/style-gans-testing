@@ -1,1 +1,1 @@
-# it-jim-style-gan
+# style-gans-testing
